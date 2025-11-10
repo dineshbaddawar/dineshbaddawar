@@ -1,6 +1,6 @@
 # 👋 Hello, I'm **Dinesh Baddawar**
 
-### 🚀 *Salesforce Developer & Technical Lead | 5+ Years of Experience | Integration & Automation Expert*
+### 🚀 *Senior Salesforce Developer & Associate Consultant| 4+ Years of Experience | Integration & Automation Expert*
 
 ---
 
@@ -36,9 +36,14 @@ Conduct **Salesforce training sessions** for interns and colleagues on new relea
 
 ## 🧠 Certifications & Expertise
 
-🎓 **Salesforce Certified Platform Developer I**  
-🎓 **Salesforce Certified Administrator**  
+🎓 **Salesforce Certified Platform Developer I** 
+🎓 **Salesforce Certified Platform Developer II**  
 🎓 **Financial Services Cloud Accredited Professional**
+🎓 **Salesforce Certified Platform App Builder** 
+🎓 **Salesforce Certified Data Cloud Consultant** 
+🎓 **Salesforce Certified Agentforce Specialist** 
+🎓 **Salesforce Certified AI Associate** 
+🎓 **Salesforce Certified Associate** 
 
 💡 **Specialties:**  
 REST Integrations • LWC Architecture • Exception Logging • Enterprise Automation  
