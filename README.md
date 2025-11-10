@@ -1,68 +1,85 @@
-👋 Hello, I'm Dinesh Baddawar – Welcome to My GitHub
+# 👋 Hello, I'm **Dinesh Baddawar**
 
-I'm a Salesforce Developer & Technical Lead with over 5 years of experience designing and delivering scalable CRM solutions. I specialize in Salesforce customization, automation, and integration — helping businesses optimize operations and enhance customer experience through innovation and technical excellence.
+### 🚀 *Salesforce Developer & Technical Lead | 5+ Years of Experience | Integration & Automation Expert*
 
-🚀 What I Do
+---
 
-I design, build, and integrate end-to-end Salesforce applications that empower teams to work smarter and deliver faster.
+🌟 **Welcome to My GitHub!**  
+I’m passionate about designing and delivering **scalable Salesforce solutions** that drive business growth and innovation.  
+I specialize in **Salesforce customization, automation, and third-party integrations**, empowering teams to work smarter and deliver faster.
 
-💼 Key Focus Areas:
+---
 
-⚡ Salesforce Development: Apex Classes, Triggers, Visualforce, Lightning Components (Aura & LWC)
+## 💼 What I Do
 
-🤖 Automation: Flow Builder, Process Builder, Approval Processes, and Asynchronous Apex (Batch, Queueable, Future, Schedulable)
+> *"Transforming ideas into intelligent Salesforce solutions."*
 
-🌐 Integration: REST API-based integrations with QuickBooks, Zoom, Google Meet, SAP, Optiva, Instagram, and more
+🔹 **Salesforce Development:**  
+Apex Classes, Triggers, Visualforce, **Lightning Components (Aura & LWC)**  
 
-🧩 Customization & Configuration: Custom Objects, Record Types, Page Layouts, Profiles, and Permission Sets
+🔹 **Automation:**  
+Flow Builder, Process Builder, Approval Processes, **Asynchronous Apex (Batch, Queueable, Future, Scheduled)**  
 
-📈 Data Management: Data Loader, Import Wizard, SOQL, SOSL for efficient and accurate data operations
+🔹 **Integration:**  
+**REST API-based** integrations with QuickBooks, Zoom, Google Meet, SAP, Optiva, Instagram & more  
 
-🧠 Mentorship & Enablement: Conduct Salesforce training sessions for interns and colleagues on new releases and Trailhead modules
+🔹 **Customization & Configuration:**  
+Custom Objects, Record Types, Page Layouts, Profiles & Permission Sets  
 
-🧠 Certifications & Expertise
+🔹 **Data Management:**  
+Data Loader, Import Wizard, SOQL & SOSL for efficient and accurate data operations  
 
-Salesforce Certified Platform Developer I
+🔹 **Mentorship & Enablement:**  
+Conduct **Salesforce training sessions** for interns and colleagues on new releases & Trailhead modules  
 
-Salesforce Certified Administrator
+---
 
-Salesforce Financial Services Cloud Accredited Professional
+## 🧠 Certifications & Expertise
 
-Expertise in REST Integrations, LWC Architecture, Exception Logging, and Enterprise Automation
+🎓 **Salesforce Certified Platform Developer I**  
+🎓 **Salesforce Certified Administrator**  
+🎓 **Financial Services Cloud Accredited Professional**
 
-🔍 Why Work With Me?
+💡 **Specialties:**  
+REST Integrations • LWC Architecture • Exception Logging • Enterprise Automation  
 
-✅ 5+ Years of Proven Salesforce Experience
-✅ Hands-on Integration Expertise with Leading Platforms
-✅ Strong Leadership Skills — Lead a Team of 5–6 Developers
-✅ Focus on Building Reusable, Scalable, and Secure Components
-✅ Active Trailhead Contributor & Salesforce Community Member
+---
 
-📁 Explore My Work
+## 🔍 Why Work With Me?
 
-Here on GitHub, I share:
-✨ Real-world Apex, LWC, and Aura components
-⚙️ Integration templates and REST API examples
-📦 Automation use cases and reusable utilities
-🧩 Trailhead-inspired experiments and learning projects
+✅ 5+ Years of Proven Salesforce Experience  
+✅ Hands-on Integration Expertise with Leading Platforms  
+✅ Strong Leadership — Lead a Team of 5–6 Developers  
+✅ Reusable, Scalable & Secure Component Design  
+✅ Active Trailhead Contributor & Salesforce Community Member  
 
-🤝 Let’s Connect
+---
 
-💼 Open to:
+## 📁 Explore My Work
 
-Freelance & Remote Salesforce Projects
+Here on GitHub, you’ll find:
 
-Collaborative Integrations and Open-source Contributions
+✨ Real-world **Apex, LWC, and Aura Components**  
+⚙️ **Integration Templates** and REST API Examples  
+📦 **Automation Utilities** & Reusable Code Snippets  
+🧩 **Trailhead-inspired Experiments** and Learning Projects  
 
-Salesforce Community Speaking & Mentoring
+---
 
-📫 Contact Me:
-📧 dineshbaddawar@gmail.com
+## 🤝 Let’s Connect!
 
-🌐 LinkedIn: linkedin.com/in/dineshbaddawar
+💼 **Open To:**  
+- Freelance & Remote Salesforce Projects  
+- Collaborative Integrations & Open-source Contributions  
+- Salesforce Community Speaking & Mentoring  
 
-📱 Instagram: @salesforce_dinesh
+📫 **Contact Me:**  
+📧 [dineshbaddawar@gmail.com](mailto:dineshbaddawar@gmail.com)  
+🌐 [LinkedIn](https://linkedin.com/in/dineshbaddawar)  
+📱 [Instagram – @salesforce_dinesh](https://instagram.com/salesforce_dinesh)  
 
-🌍 Based in India | Working Globally
+🌍 *Based in India | Working Globally*  
 
-⭐ Feel free to explore my repositories and connect to collaborate on Salesforce and automation projects!
+---
+
+⭐ *Explore my repositories and let’s collaborate to build something amazing on Salesforce!*  
