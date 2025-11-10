@@ -1,6 +1,6 @@
 # 👋 Hello, I'm **Dinesh Baddawar**
 
-### 🚀 *Senior Salesforce Developer & Associate Consultant| 4+ Years of Experience | Integration & Automation Expert*
+### 🚀 *Senior Salesforce Developer & Associate Consultant | 4+ Years of Experience | Integration & Automation Expert*
 
 ---
 
