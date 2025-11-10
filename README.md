@@ -89,7 +89,7 @@ Here on GitHub, you’ll find:
 📫 **Contact Me:**  
 📧 [dineshbaddawar@gmail.com](mailto:dineshbaddawar@gmail.com)  
 🌐 [LinkedIn](https://linkedin.com/in/dineshbaddawar)  
-📱 [Instagram – @salesforce_dinesh](https://instagram.com/salesforce_dinesh)  
+📱 [Instagram – @dinesh_salesforcedevhacks](https://instagram.com/dinesh_salesforcedevhacks)  
 
 🌍 *Based in India | Working Globally*  
 
