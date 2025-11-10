@@ -36,17 +36,25 @@ Conduct **Salesforce training sessions** for interns and colleagues on new relea
 
 ## 🧠 Certifications & Expertise
 
-🎓 **Salesforce Certified Platform Developer I** 
-🎓 **Salesforce Certified Platform Developer II**  
-🎓 **Financial Services Cloud Accredited Professional**
-🎓 **Salesforce Certified Platform App Builder** 
-🎓 **Salesforce Certified Data Cloud Consultant** 
-🎓 **Salesforce Certified Agentforce Specialist** 
-🎓 **Salesforce Certified AI Associate** 
-🎓 **Salesforce Certified Associate** 
+🎓 **Salesforce Certifications:**
+- **Salesforce Certified Platform Developer I**  
+- **Salesforce Certified Platform Developer II**
+- **Financial Services Cloud Accredited Professional**  
+- **Salesforce Certified Platform App Builder**  
+- **Salesforce Certified Data Cloud Consultant**  
+- **Salesforce Certified Agentforce Specialist**  
+- **Salesforce Certified AI Associate**  
+- **Salesforce Certified Associate**  
 
-💡 **Specialties:**  
-REST Integrations • LWC Architecture • Exception Logging • Enterprise Automation  
+💡 **Specialties:**
+- **REST API Integrations**  
+- **LWC & Aura Architecture**  
+- **Exception Logging Frameworks**  
+- **Enterprise Automation (Flows, Batch Apex, Queueable)**  
+- **Custom Metadata & Custom Settings**  
+- **Data Management (SOQL, SOSL, Data Loader)**  
+- **Salesforce Security Model (Profiles, Permission Sets, Sharing Rules)**
+
 
 ---
 
